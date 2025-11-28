@@ -1,0 +1,4 @@
+metric	value
+mean_depth_exome	2.65819
+fraction_bases_>=10x	0.0699762
+fraction_bases_>=20x	0.0479048
